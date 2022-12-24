@@ -14,6 +14,7 @@ function button(){
 function tristart() {
     document.getElementById("buttonthing").removeAttribute('hidden')
 }
+
 var AreaOfTriangle = function() {
     var base = parseFloat(document.getElementById('base').value);
     var height = parseFloat(document.getElementById('height').value);
