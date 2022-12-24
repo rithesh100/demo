@@ -33,3 +33,14 @@ h1 {
     width: 100%;
   }
 }
+
+.button {
+  width: 200px;
+}
+
+.buttontext {
+  color: gold;
+  font-size: 40px;
+  margin: 20px;
+  text-align: center;
+}
