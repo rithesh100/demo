@@ -35,12 +35,9 @@ h1 {
 }
 
 .button {
-  width: 200px;
+  width: auto;
 }
 
-.buttontext {
-  color: gold;
-  font-size: 40px;
-  margin: 20px;
-  text-align: center;
+#tributton {
+  width: auto;
 }
