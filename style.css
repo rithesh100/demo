@@ -36,12 +36,47 @@ h1 {
 
 .button {
   width: auto;
+  height: 60px;
+  background-color: gold;
 }
 
 .tricalcbutton {
+  height: 40px;
   width: auto;
+  background-color: lightgreen;
+  font-size: 15px;
 }
 
 .tributton {
   margin-right: 20px;
+  background-color: green;
+  font-size: 15px;
+  height: 25px;
+  width: auto;
+}
+
+.closebutton {
+  font-size: 10px;
+  background-color: red;
+  height: 20px;
+  width: auto;
+}
+
+#reset {
+  background-color: lightpink;
+  font-size: 15px;
+  height: 25px;
+  width: auto;
+}
+
+#height {
+  font-size: 15px;
+  height: 25px;
+  width: auto;
+}
+
+#base {
+  font-size: 15px;
+  height: 25px;
+  width: auto;
 }

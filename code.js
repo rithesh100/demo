@@ -35,4 +35,9 @@ function clearText() {
     document.getElementById('height').value = "";
     document.getElementById('base').value = "";
     document.getElementById('areaoftri').value = "";
-} 
+}
+
+function closebutton() {
+    document.getElementById("buttonthing").setAttribute("hidden", true);
+    document.getElementById("areaoftri").setAttribute("hidden", true);
+}
